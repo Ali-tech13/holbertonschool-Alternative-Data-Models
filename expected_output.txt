@@ -1,0 +1,24 @@
+2-find_by_level.sql
+1|Ali|intermediate
+4|Noura|intermediate
+
+3-find_by_city.sql
+1|Ali|Riyadh
+3|Omar|Riyadh
+
+4-find_python_learners.sql
+1|Ali
+3|Omar
+2|Sara
+
+5-find_security_projects.sql
+1|Ali|Log Analyzer
+3|Omar|Packet Inspector
+
+8-count_profiles_by_city.sql
+Jeddah|2
+Riyadh|2
+Dammam|1
+
+After updates: Sara is intermediate; Ali has Python, SQL, Linux.
+After deletion: profile IDs 1, 2, 3, 4 remain.
